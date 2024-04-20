@@ -1,6 +1,6 @@
 {
   "test_preprocess": {
-    "vocab_length": 1805
+    "vocab_length": 1804
   },
   "test_lm": {
     "english_2_gram_length": 748,
@@ -9,10 +9,10 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 9.370349492166199,
-    "en_fr": 35.20871539993128,
-    "en_tl": 32.35048201244167,
-    "en_nl": 32.428455818152294
+    "en_en": 9.3685334322219,
+    "en_fr": 35.20306164614297,
+    "en_tl": 32.34453113726618,
+    "en_nl": 32.42303611119351
   },
   "test_match": {
     "en_en_3": 4.409097345529981,
